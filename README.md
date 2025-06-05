@@ -15,6 +15,4 @@ MicroTrips is a **React-based travel app** that generates personalized trip reco
 ---
 
 ## 🔧 Installation
-### **1️⃣ Clone the Repository**
-```bash
-git clone https://github.com/your-username/microtrips.git
+

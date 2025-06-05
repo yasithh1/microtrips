@@ -12,7 +12,5 @@ MicroTrips is a **React-based travel app** that generates personalized trip reco
 - 🎨 **Smooth UI Animations** → Using Framer Motion for sleek transitions  
 - 📍 **Location-Based Filtering** → Coming soon!  
 
----
-
 ## 🔧 Installation
 
